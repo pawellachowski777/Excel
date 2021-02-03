@@ -1,15 +1,16 @@
 # Zautomatyzowany grafik
 
-Projekt zrealizowany na zlecenie ma³ego przedsiêbiorcy. Moim zadaniem by³o stworzenie narzêdza, które przyœpieszy proces rêcznego rysowania grafików pracy robionych w Excelu. Dodatkowym zadaniem, które wyznaczy³em sobie sam, by³o zaprojektowanie grafiku tak, aby konstrukcja by³a zbli¿ona do orygina³u, jednak wygl¹daj¹ca bardziej estetycznie i profesjonalnie. Bardzo istotnym by³o te¿ kryterium ³atwoœci w obs³udze.  
+Projekt zrealizowany na zlecenie maÅ‚ego przedsiÄ™biorcy. Moim zadaniem byÅ‚o stworzenie narzÄ™dza, ktÃ³re przyÅ›pieszy proces rÄ™cznego rysowania grafikÃ³w pracy robionych w Excelu. Dodatkowym zadaniem, ktÃ³re wyznaczyÅ‚em sobie sam, byÅ‚o zaprojektowanie grafiku tak, aby konstrukcja byÅ‚a zbliÅ¼ona do oryginaÅ‚u, jednak wyglÄ…dajÄ…ca bardziej estetycznie i profesjonalnie. Bardzo istotnym byÅ‚o teÅ¼ kryterium Å‚atwoÅ›ci w obsÅ‚udze.  
 ___
-Na pasku szybkiego dostêpu znajduj¹ siê dwa przyciski przypisane do makr.  
-![makra](https://drive.google.com/uc?export=view&id=1DI5qar2KTKf-HZO3BPw2BgRvVKvmaoLY)
-Pierwszy s³u¿y do rysowania godzin za pomoc¹ input boxów.  
+Na pasku szybkiego dostÄ™pu znajdujÄ… siÄ™ dwa przyciski przypisane do makr.  
+![makra](https://drive.google.com/uc?export=view&id=1DI5qar2KTKf-HZO3BPw2BgRvVKvmaoLY)  
+Pierwszy sÅ‚uÅ¼y do rysowania godzin za pomocÄ… input boxÃ³w.  
 Drugi zapisuje wszystkie arkusze w formie pliku *.pdf*.
 ___
-Kolejnym udogodnieniem jest zdefiniowana przezemnie funkcja LiczGodziny, która oblicza iloœæ godzin dla ka¿dego z pracowników w danym tygodniu.
-![licz](https://drive.google.com/uc?export=view&id=1qYYyrHKzE4j9yRyV0Nkwac0zh0OkMGhd)Obok obliczone s¹ tak¿e godziny przepracowane w ca³ym miesi¹cu. Ze wzglêdów optymalizacyjnych postanowi³em wy³¹czyæ automatyczne obliczanie formu³. Do grafiki obok tabeli jest przypisane makro, które odœwie¿a wszystkie oblicznia w skoroszycie.  
+Kolejnym udogodnieniem jest zdefiniowana przezemnie funkcja LiczGodziny, ktÃ³ra oblicza iloÅ›Ä‡ godzin dla kaÅ¼dego z pracownikÃ³w w danym tygodniu.  
+![licz](https://drive.google.com/uc?export=view&id=1qYYyrHKzE4j9yRyV0Nkwac0zh0OkMGhd)  
+Obok obliczone sÄ… takÅ¼e godziny przepracowane w caÅ‚ym miesiÄ…cu. Ze wzglÄ™dÃ³w optymalizacyjnych postanowiÅ‚em wyÅ‚Ä…czyÄ‡ automatyczne obliczanie formuÅ‚. Do grafiki obok tabeli jest przypisane makro, ktÃ³re odÅ›wieÅ¼a wszystkie oblicznia w skoroszycie.  
 ___
-Ostatni¹, ale nie mniej wa¿n¹ funkcj¹ jest mo¿liwoœæ automatycznego uzupe³niania dni w miesi¹cu.
+OstatniÄ…, ale nie mniej waÅ¼nÄ… funkcjÄ… jest moÅ¼liwoÅ›Ä‡ automatycznego uzupeÅ‚niania dni w miesiÄ…cu.
 ![kalendarz](https://drive.google.com/uc?export=view&id=1-bQRePxONt1rHcFWVJ01YdBsx_9HrLRE)  
-Po wybraniu miesi¹ca i roku nale¿y klikn¹æ grafikê kalendarza, a program ponumeruje dni zgodnie z kalendarzem. Zaktualizowane zostaj¹ tak¿e nazwy arkuszy.
+Po wybraniu miesiÄ…ca i roku naleÅ¼y kliknÄ…Ä‡ grafikÄ™ kalendarza, a program ponumeruje dni zgodnie z kalendarzem. Zaktualizowane zostajÄ… takÅ¼e nazwy arkuszy.
